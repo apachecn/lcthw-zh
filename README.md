@@ -11,6 +11,7 @@
 > **一句 MMP 送给在座的各位程序正义垃圾。**
 
 + [在线阅读](https://lcthw.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/lcthw-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lcthw)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw)
